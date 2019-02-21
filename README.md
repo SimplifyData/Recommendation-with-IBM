@@ -26,11 +26,3 @@ Given the amount of content available for each article, there are a number of di
 V. Matrix Factorization
 
 Finally, I completed a machine learning approach to building recommendations. Using the user-item interactions, I built out a matrix decomposition. Using the decomposition, I got an idea of how well I can predict new articles an individual might interact with (spoiler alert - it isn't great). I finally discussed which methods I used moving forward, and how to test how well the recommendations are working for engaging users.
-
-
-
-Citations:
-
-1) https://github.com/wenshihao1993/Udacity-DSND/blob/master/Experimental%20Design%20%26%20Recommandations/IBM%20Recommendation%20System%20Project/Recommendations_with_IBM.ipynb
-
-2) https://github.com/karthiktsaliki/IBM_Recommendations/blob/master/Recommendations_with_IBM.ipynb
